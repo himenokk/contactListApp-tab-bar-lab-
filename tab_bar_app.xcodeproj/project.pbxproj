@@ -16,6 +16,8 @@
 		579320322AE78C330054559E /* tab_bar_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 579320312AE78C330054559E /* tab_bar_appTests.swift */; };
 		5793203C2AE78C330054559E /* tab_bar_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5793203B2AE78C330054559E /* tab_bar_appUITests.swift */; };
 		5793203E2AE78C330054559E /* tab_bar_appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5793203D2AE78C330054559E /* tab_bar_appUITestsLaunchTests.swift */; };
+		57F4B2DA2AE8EEFA00162941 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F4B2D92AE8EEFA00162941 /* TableViewController.swift */; };
+		57F4B2DE2AE8F40100162941 /* Contacts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F4B2DD2AE8F40100162941 /* Contacts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		579320372AE78C330054559E /* tab_bar_appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tab_bar_appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5793203B2AE78C330054559E /* tab_bar_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tab_bar_appUITests.swift; sourceTree = "<group>"; };
 		5793203D2AE78C330054559E /* tab_bar_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tab_bar_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		57F4B2D92AE8EEFA00162941 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		57F4B2DD2AE8F40100162941 /* Contacts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contacts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				5793201A2AE78C310054559E /* AppDelegate.swift */,
 				5793201C2AE78C310054559E /* SceneDelegate.swift */,
 				5793201E2AE78C310054559E /* ViewController.swift */,
+				57F4B2D92AE8EEFA00162941 /* TableViewController.swift */,
+				57F4B2DD2AE8F40100162941 /* Contacts.swift */,
 				579320202AE78C310054559E /* Main.storyboard */,
 				579320232AE78C320054559E /* Assets.xcassets */,
 				579320252AE78C320054559E /* LaunchScreen.storyboard */,
@@ -261,6 +267,8 @@
 				5793201F2AE78C310054559E /* ViewController.swift in Sources */,
 				5793201B2AE78C310054559E /* AppDelegate.swift in Sources */,
 				5793201D2AE78C310054559E /* SceneDelegate.swift in Sources */,
+				57F4B2DA2AE8EEFA00162941 /* TableViewController.swift in Sources */,
+				57F4B2DE2AE8F40100162941 /* Contacts.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
